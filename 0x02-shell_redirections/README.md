@@ -1,5 +1,5 @@
 Task 0 - Script prints hello world, new line to standard output
-Task 1 -
+Task 1 - Script displays confused smiley "(Oo)'
 Task 2 -
 Task 3 -
 Task 4 -
